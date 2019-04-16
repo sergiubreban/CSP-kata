@@ -1,6 +1,6 @@
 # CSP-katta
 
-## Browser Securitty
+## Browser Security
 
 1. Make in such a way that you cannot load images or other resorces from another domain
 1. Make in such a way that your website wont process javascript 
